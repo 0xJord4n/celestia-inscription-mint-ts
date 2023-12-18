@@ -1,10 +1,10 @@
 {
   "name": "cias",
   "version": "1.0.0",
-  "main": "src/mint.ts",
+  "main": "src/index.ts",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node src/mint.ts"
+    "start": "ts-node src/index.ts"
   },
   "dependencies": {
     "@cosmjs/crypto": "^0.32.0",
